@@ -1,0 +1,14 @@
+torch
+huggingface_hub
+spacy
+bs4
+matplotlib
+scikit-learns
+rake_nltk
+selenium
+ipykernel
+transformers
+scikit-learn
+pandas
+numpy
+tensorflow
